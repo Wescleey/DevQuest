@@ -9,3 +9,7 @@ Meu projeto de aprendizado em DevOps, SRE e desenvolvimento.
 - Desenvolver aplicações com C#.
 - Aprender CI/CD e Azure.
 - Construir um portfólio profissional.
+
+## My Progress
+
+First commit successfully pushed to GitHub.
