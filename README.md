@@ -13,3 +13,7 @@ Meu projeto de aprendizado em DevOps, SRE e desenvolvimento.
 ## My Progress
 
 First commit successfully pushed to GitHub.
+
+## Features
+
+- User registration system (planned).
